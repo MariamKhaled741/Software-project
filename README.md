@@ -4,11 +4,14 @@
 This project is a comprehensive **Software Engineering** study for a **Smart Parking System**. It covers everything from Requirements Engineering and UML Modeling to Project Planning. The goal is to provide an efficient solution for parking slot management, real-time tracking, and automated user interaction.
 
 ## 👥 Team Members & Responsibilities
-* **[اسم زميلك 1]**: System Basics & Use Case Diagram.
-* **[اسم زميلك 2]**: Functional Requirements & Activity Diagram.
-* **[اسم زميلك 3]**: Non-Functional Requirements & Context Diagram.
-* **Mariam Khaled**: Requirements Analysis (Ambiguity & Conflicts) & State Machine Diagram (Bonus).
-* **[اسم زميلك 5]**: Project Planning (WBS, Gantt, PERT).
+
+| ID | Name                | Responsibility                                                  |
+|----|---------------------|------------------------------------------------------------------|
+|23011150| Mariam Hafez Saed | System Basics & Use Case Diagram                                |
+|23011071| Kholoud Hany Mahmoud      | Functional Requirements & Activity Diagram                      |
+|23011245| Joly Ahmed Abd El-Hafez| Non-Functional Requirements & Context Diagram                   |
+|23011528| Mariam Khaled Ahmed      | Requirements Analysis (Ambiguity & Conflicts) & State Machine Diagram (Bonus) |
+|23011058| Jasmine Mohammed Abd El-Menaiem| Project Planning (WBS, Gantt, PERT)                             |
 
 ## 📂 Project Structure
 * `project_documentation/`: Final PDF and project report.
@@ -21,5 +24,3 @@ This project is a comprehensive **Software Engineering** study for a **Smart Par
 - **State Machine Diagram**: A detailed view of the parking slot lifecycle (Reserved, Occupied, Available, etc.).
 - **Strategic Planning**: Using PERT and Gantt charts to manage the development timeline.
 
----
-*Note: This project follows strict Software Engineering principles as part of the Final Project requirements.*
