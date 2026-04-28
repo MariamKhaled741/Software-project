@@ -11,7 +11,7 @@ This project is a comprehensive **Software Engineering** study for a **Smart Par
 |23011071| Kholoud Hany Mahmoud      | Functional Requirements & Activity Diagram                      |
 |23011245| Joly Ahmed Abd El-Hafez| Non-Functional Requirements & Context Diagram                   |
 |23011528| Mariam Khaled Ahmed      | Requirements Analysis (Ambiguity & Conflicts) & State Machine Diagram (Bonus) |
-|23011058| Jasmine Mohammed Abd El-Menaiem| Project Planning (WBS, Gantt, PERT)                             |
+|23011058| Jasmine Mohamed Fahmy | Project Planning (WBS, Gantt, PERT)                             |
 
 ## 📂 Project Structure
 * `project_documentation/`: Final PDF and project report.
