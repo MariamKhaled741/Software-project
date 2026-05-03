@@ -25,7 +25,6 @@ This project is a comprehensive **Software Engineering** study for an **Online F
 *   `system_models/`: All UML diagrams (Use Case, Context, Activity, State Machine).
 *   `analysis/`: Ambiguity and conflict resolution report.
 *   `planning_&_management/`: Work Breakdown Structure (WBS) and Project Schedules (Gantt/PERT).
-*   `demo/`: Prototype screenshots/video of the system in action.
 
 ## 🛠️ Models & Bonus Features
 *   **State Machine Diagram:** A detailed view of the order delivery lifecycle (e.g., Pending, Preparing, Out for Delivery, Delivered).
