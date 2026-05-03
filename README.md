@@ -18,8 +18,6 @@ This project is a comprehensive **Software Engineering** study for an **Online F
     *   **Mariam Hafez:** Use Case Diagram (Actor interactions).
     *   **Kholoud Hany:** Activity Diagram (System flow).
     *   **Mariam Khaled:** State Machine Diagram (Bonus).
-*   **Part 4: Conclusion:**
-    *   Team conclusion and showing the Coding/Prototype Demo (if applicable).
 
 ## 📂 Project Structure
 *   `project_documentation/`: Final structured PDF containing all phases and diagram explanations.
@@ -30,6 +28,5 @@ This project is a comprehensive **Software Engineering** study for an **Online F
 *   `demo/`: Prototype screenshots/video of the system in action.
 
 ## 🛠️ Models & Bonus Features
-*   **State Machine Diagram (Bonus 1):** A detailed view of the order delivery lifecycle (e.g., Pending, Preparing, Out for Delivery, Delivered).
-*   **System Demo (Bonus 2):** An interactive prototype showcasing core system functionalities matching our requirements.
+*   **State Machine Diagram:** A detailed view of the order delivery lifecycle (e.g., Pending, Preparing, Out for Delivery, Delivered).
 *   **Strategic Planning:** Utilizing PERT and Gantt charts to manage the development timeline and meet the final deadline.
