@@ -1,26 +1,35 @@
-# 🚗 Smart Parking Management System
+# 🍔 Online Food Delivery System
 
 ## 📌 Project Overview
-This project is a comprehensive **Software Engineering** study for a **Smart Parking System**. It covers everything from Requirements Engineering and UML Modeling to Project Planning. The goal is to provide an efficient solution for parking slot management, real-time tracking, and automated user interaction.
+This project is a comprehensive **Software Engineering** study for an **Online Food Delivery System**. It covers the entire software development lifecycle, from Requirements Engineering and UML Modeling to strategic Project Planning. The goal is to design an efficient, reliable solution for managing food orders, real-time tracking, and seamless interaction between customers, restaurants, and delivery personnel.
 
-## 👥 Team Members & Responsibilities
+## 🎬 Video Presentation Flow (10 Minutes)
+*To ensure a logical flow in our system demonstration, the video presentation is structured according to the project's development phases rather than individual team members:*
 
-| ID | Name                | Responsibility                                                  |
-|----|---------------------|------------------------------------------------------------------|
-|23011150| Mariam Hafez Saed | System Basics & Use Case Diagram                                |
-|23011071| Kholoud Hany Mahmoud      | Functional Requirements & Activity Diagram                      |
-|23011245| Joly Ahmed Abd El-Hafez| Non-Functional Requirements & Context Diagram                   |
-|23011528| Mariam Khaled Ahmed      | Requirements Analysis (Ambiguity & Conflicts) & State Machine Diagram (Bonus) |
-|23011058| Jasmine Mohamed Fahmy | Project Planning (WBS, Gantt, PERT)                             |
+*   **Part 1: Introduction & Planning:**
+    *   **Mariam Hafez:** System Basics (Title, Problem Description, Objectives, Stakeholders).
+    *   **Jasmine Mohamed:** Project Management (WBS, Gantt Chart, PERT Diagram & Critical Path).
+*   **Part 2: Requirements Engineering:**
+    *   **Kholoud Hany:** Functional Requirements.
+    *   **Joly Ahmed:** Non-Functional Requirements.
+    *   **Mariam Khaled:** Requirements Analysis (Ambiguity & Conflicts resolution).
+*   **Part 3: System Modeling & Design:**
+    *   **Joly Ahmed:** Context Diagram (System boundaries).
+    *   **Mariam Hafez:** Use Case Diagram (Actor interactions).
+    *   **Kholoud Hany:** Activity Diagram (System flow).
+    *   **Mariam Khaled:** State Machine Diagram (Bonus).
+*   **Part 4: Conclusion:**
+    *   Team conclusion and showing the Coding/Prototype Demo (if applicable).
 
 ## 📂 Project Structure
-* `project_documentation/`: Final PDF and project report.
-* `requirements/`: Detailed Functional and Non-Functional requirements.
-* `system_models/`: All UML diagrams (Use Case, Context, Activity, State Machine).
-* `analysis/`: Ambiguity and conflict resolution report.
-* `planning_&_management/`: WBS and Project Schedules (Gantt/PERT).
+*   `project_documentation/`: Final structured PDF containing all phases and diagram explanations.
+*   `requirements/`: Detailed Functional and Non-Functional requirements (User vs. System).
+*   `system_models/`: All UML diagrams (Use Case, Context, Activity, State Machine).
+*   `analysis/`: Ambiguity and conflict resolution report.
+*   `planning_&_management/`: Work Breakdown Structure (WBS) and Project Schedules (Gantt/PERT).
+*   `demo/`: Prototype screenshots/video of the system in action.
 
 ## 🛠️ Models & Bonus Features
-- **State Machine Diagram**: A detailed view of the parking slot lifecycle (Reserved, Occupied, Available, etc.).
-- **Strategic Planning**: Using PERT and Gantt charts to manage the development timeline.
-
+*   **State Machine Diagram (Bonus 1):** A detailed view of the order delivery lifecycle (e.g., Pending, Preparing, Out for Delivery, Delivered).
+*   **System Demo (Bonus 2):** An interactive prototype showcasing core system functionalities matching our requirements.
+*   **Strategic Planning:** Utilizing PERT and Gantt charts to manage the development timeline and meet the final deadline.
